@@ -1,16 +1,24 @@
 {
-	"name": "ytdl",
-	"version": "1.0.0",
-	"description": "",
-	"main": "index.js",
-	"scripts": {
-		"test": "echo \"Error: no test specified\" && exit 1",
-		"start": "nodemon index.js"
-	},
-	"keywords": [],
-	"author": "",
-	"license": "ISC",
-	"dependencies": {
-		"ytdl-core": "^4.11.2"
-	}
+  "name": "ytdl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Tarun & Amar",
+  "license": "ISC",
+  "dependencies": {
+    "ytdl-core": "^4.11.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theamarverma/ytdl.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theamarverma/ytdl/issues"
+  },
+  "homepage": "https://github.com/theamarverma/ytdl#readme",
+  "description": ""
 }
